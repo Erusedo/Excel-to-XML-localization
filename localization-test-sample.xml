@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization xmlns="http://config.mgt.xboxlive.com/schema/localization/1">
+    <DevDisplayLocale locale="en-US" />
+    <LocalizedString id="AchievementNameId_a63108e2-7f97-4d04-a8bd-7555aa10439a">
+        <Value locale="en-US">Fish Just Got Reel</Value>
+        <Value locale="fr-FR">Première prise</Value>
+        <Value locale="ja-JP">魚が巻き上げられた</Value>
+        <Value locale="ru-RU">На крючке</Value>
+        <Value locale="es-ES">Quien pesca un pez, pescador es</Value>
+        <Value locale="zh-CN">鱼儿上钩</Value>
+        <Value locale="de-DE">Fisch an der Rolle</Value>
+        <Value locale="pl-PL">Pierwsze ryby za płoty</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_a63108e2-7f97-4d04-a8bd-7555aa10439a">
+        <Value locale="en-US">Caught a fish.</Value>
+        <Value locale="fr-FR">Vous avez attrapé un poisson.</Value>
+        <Value locale="ja-JP">魚を釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу.</Value>
+        <Value locale="es-ES">Has pescado un pez.</Value>
+        <Value locale="zh-CN">捕获了一条鱼。</Value>
+        <Value locale="de-DE">Einen Fisch gefangen.</Value>
+        <Value locale="pl-PL">Złowiono rybę.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_a63108e2-7f97-4d04-a8bd-7555aa10439a">
+        <Value locale="en-US">Catch a fish.</Value>
+        <Value locale="fr-FR">Attrapez un poisson.</Value>
+        <Value locale="ja-JP">魚を釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу.</Value>
+        <Value locale="es-ES">Pesca un pez.</Value>
+        <Value locale="zh-CN">捕获一条鱼。</Value>
+        <Value locale="de-DE">Fange einen Fisch.</Value>
+        <Value locale="pl-PL">Złów rybę.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_28ffc4ae-90e0-471c-9b9e-151647c0a949">
+        <Value locale="en-US">Can You Smell What the Rod Is Hooking</Value>
+        <Value locale="fr-FR">Qui va à la pêche...</Value>
+        <Value locale="ja-JP">ロッドに掛かったものが匂うか？</Value>
+        <Value locale="ru-RU">Ловись рыбка</Value>
+        <Value locale="es-ES">Más vale pez en mano que ciento nadando</Value>
+        <Value locale="zh-CN">你能料到是什么鱼儿咬钩吗</Value>
+        <Value locale="de-DE">Was hakt da an der Rute?</Value>
+        <Value locale="pl-PL">Co żyłka na haczyk przyniesie</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_28ffc4ae-90e0-471c-9b9e-151647c0a949">
+        <Value locale="en-US">Caught 3 bronze ranked fish.</Value>
+        <Value locale="fr-FR">Vous avez attrapé 3 poissons de rang Bronze.</Value>
+        <Value locale="ja-JP">ブロンズランクの魚を3匹釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали 3 рыбы бронзового ранга.</Value>
+        <Value locale="es-ES">Has pescado 3 peces de rango bronce.</Value>
+        <Value locale="zh-CN">捕获了3条青铜级的鱼。</Value>
+        <Value locale="de-DE">3 Fische des Rangs Bronze gefangen.</Value>
+        <Value locale="pl-PL">Złowiono 3 ryby klasy brązowej.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_28ffc4ae-90e0-471c-9b9e-151647c0a949">
+        <Value locale="en-US">Catch 3 bronze ranked fish.</Value>
+        <Value locale="fr-FR">Attrapez 3 poissons de rang Bronze.</Value>
+        <Value locale="ja-JP">ブロンズランクの魚を3匹釣る。</Value>
+        <Value locale="ru-RU">Поймать 3 рыбы бронзового ранга.</Value>
+        <Value locale="es-ES">Pesca 3 peces de rango bronce.</Value>
+        <Value locale="zh-CN">捕获3条青铜级的鱼。</Value>
+        <Value locale="de-DE">Fange 3 Fische des Rangs Bronze.</Value>
+        <Value locale="pl-PL">Złów 3 ryby klasy brązowej.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_a0031c3a-6aba-4a46-88cf-233dae6ce98e">
+        <Value locale="en-US">Hey Good Hookin</Value>
+        <Value locale="fr-FR">Premiers pas</Value>
+        <Value locale="ja-JP">ナイスフック。</Value>
+        <Value locale="ru-RU">Хорошее начало</Value>
+        <Value locale="es-ES">Primeros pasos</Value>
+        <Value locale="zh-CN">嘿，好样的。</Value>
+        <Value locale="de-DE">Fröhliches Fischen</Value>
+        <Value locale="pl-PL">Wędka na drogę</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_a0031c3a-6aba-4a46-88cf-233dae6ce98e">
+        <Value locale="en-US">Completed the Golden Ridge Reserve tutorial.</Value>
+        <Value locale="fr-FR">Vous avez terminé le didacticiel de la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区のチュートリアルを完了しました。</Value>
+        <Value locale="ru-RU">Вы завершили обучение в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Has completado el tutorial de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">完成了黄金岭保护区教程。</Value>
+        <Value locale="de-DE">Das Tutorial des Golden Ridge Reservats abgeschlossen.</Value>
+        <Value locale="pl-PL">Ukończono samouczek Rezerwatu Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_a0031c3a-6aba-4a46-88cf-233dae6ce98e">
+        <Value locale="en-US">Complete the Golden Ridge Reserve tutorial.</Value>
+        <Value locale="fr-FR">Terminez le didacticiel de la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区のチュートリアルを完了する。</Value>
+        <Value locale="ru-RU">Завершить обучение в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Completa el tutorial de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">完成黄金岭保护区教程。</Value>
+        <Value locale="de-DE">Schließe das Tutorial des Golden Ridge Reservats ab.</Value>
+        <Value locale="pl-PL">Ukończ samouczek Rezerwatu Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_4d4c9ea6-a0d7-456d-a897-bde3b9783ae2">
+        <Value locale="en-US">Ready to Rod and Roll</Value>
+        <Value locale="fr-FR">Paré à pêcher</Value>
+        <Value locale="ja-JP">ロッド＆ロールするぜ</Value>
+        <Value locale="ru-RU">Ручная сборка</Value>
+        <Value locale="es-ES">Preparados, listos, ¡a pescar!</Value>
+        <Value locale="zh-CN">蓄势待发</Value>
+        <Value locale="de-DE">Rut 'n' Rolle</Value>
+        <Value locale="pl-PL">Sprzęt spakowany</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_4d4c9ea6-a0d7-456d-a897-bde3b9783ae2">
+        <Value locale="en-US">Used the Rod Assembler to put together a tackle.</Value>
+        <Value locale="fr-FR">Vous avez utilisé l’assembleur de cannes pour préparer votre matériel.</Value>
+        <Value locale="ja-JP">ロッドアセンブラを使ってタックルを組み立てました。</Value>
+        <Value locale="ru-RU">Вы использовали меню «Оснастка», чтобы собрать снасть.</Value>
+        <Value locale="es-ES">Has usado el creador de cañas para personalizar tu equipo de pesca.</Value>
+        <Value locale="zh-CN">使用鱼竿组装器组装了渔具。</Value>
+        <Value locale="de-DE">Die Rutenwerkstatt benutzt, um eine Ausrüstung zusammenzustellen.</Value>
+        <Value locale="pl-PL">Użyto warsztatu wędkarskiego, aby złożyć zestaw.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_4d4c9ea6-a0d7-456d-a897-bde3b9783ae2">
+        <Value locale="en-US">Use the Rod Assembler to put together a tackle.</Value>
+        <Value locale="fr-FR">Utilisez l’assembleur de cannes pour préparer votre matériel.</Value>
+        <Value locale="ja-JP">ロッドアセンブラを使ってタックルを組み立てる。</Value>
+        <Value locale="ru-RU">Использовать меню «Оснастка», чтобы собрать снасть.</Value>
+        <Value locale="es-ES">Usa el creador de cañas para personalizar tu equipo de pesca.</Value>
+        <Value locale="zh-CN">使用鱼竿组装器组装渔具。</Value>
+        <Value locale="de-DE">Benutze die Rutenwerkstatt, um eine Ausrüstung zusammenzustellen.</Value>
+        <Value locale="pl-PL">Użyj warsztatu wędkarskiego, aby złożyć zestaw.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_bc332dcf-2fc3-4968-aa7d-c59c071b846b">
+        <Value locale="en-US">Fish Out of Water</Value>
+        <Value locale="fr-FR">Il est frais, mon poisson</Value>
+        <Value locale="ja-JP">陸に上がったさかな</Value>
+        <Value locale="ru-RU">Рыбное ассорти</Value>
+        <Value locale="es-ES">En la variedad está el gusto</Value>
+        <Value locale="zh-CN">鱼跃水面。</Value>
+        <Value locale="de-DE">F(r)isch aus dem Wasser</Value>
+        <Value locale="pl-PL">Co powie ryba?</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_bc332dcf-2fc3-4968-aa7d-c59c071b846b">
+        <Value locale="en-US">Caught a fish in a Lake, River, and Pond in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Vous avez attrapé un poisson dans un lac, une rivière ou un étang de
+            la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内の湖、川、池で魚を釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу в озере, реке и пруду в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Has pescado un pez en un lago, río y estanque de la reserva de Golden
+            Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内的湖泊、河流和池塘捕获了一条鱼。</Value>
+        <Value locale="de-DE">Einen Fisch in einem See, Fluss und Teich des Golden Ridge Reservats
+            gefangen.</Value>
+        <Value locale="pl-PL">Złowiono rybę w jeziorze, rzece i stawie w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_bc332dcf-2fc3-4968-aa7d-c59c071b846b">
+        <Value locale="en-US">Catch a fish in a Lake, River, and Pond in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Attrapez un poisson dans un lac, une rivière ou un étang de la réserve
+            de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内の湖、川、池で魚を釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу в озере, реке и пруду в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Pesca un pez en un lago, río y estanque de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内的湖泊、河流和池塘捕获一条鱼。</Value>
+        <Value locale="de-DE">Fange einen Fisch in einem See, Fluss und Teich des Golden Ridge
+            Reservats.</Value>
+        <Value locale="pl-PL">Złów rybę w jeziorze, rzece i stawie w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_7fcfd10d-e672-4901-96f7-39f1f8d00508">
+        <Value locale="en-US">I’m on a Boat!</Value>
+        <Value locale="fr-FR">Oh ! Mon bateau</Value>
+        <Value locale="ja-JP">ボートの上だ！</Value>
+        <Value locale="ru-RU">Я в лодке!</Value>
+        <Value locale="es-ES">En bote voy, en bote vengo, vengo</Value>
+        <Value locale="zh-CN">我上船了！</Value>
+        <Value locale="de-DE">Volle Kraft voraus</Value>
+        <Value locale="pl-PL">Sam sobie sterem, żeglarzem, okrętem</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_7fcfd10d-e672-4901-96f7-39f1f8d00508">
+        <Value locale="en-US">Got in a boat for the first time.</Value>
+        <Value locale="fr-FR">Vous êtes monté dans un bateau pour la première fois.</Value>
+        <Value locale="ja-JP">初めてボートに乗りました。</Value>
+        <Value locale="ru-RU">Вы сели в лодку в первый раз.</Value>
+        <Value locale="es-ES">Has subido a bordo de una embarcación por primera vez.</Value>
+        <Value locale="zh-CN">第一次乘了船。</Value>
+        <Value locale="de-DE">Zum ersten Mal in ein Boot gestiegen.</Value>
+        <Value locale="pl-PL">Udało się wejść po raz pierwszy do łodzi.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_7fcfd10d-e672-4901-96f7-39f1f8d00508">
+        <Value locale="en-US">Get in a boat for the first time.</Value>
+        <Value locale="fr-FR">Montez dans un bateau pour la première fois.</Value>
+        <Value locale="ja-JP">初めてボートに乗る。</Value>
+        <Value locale="ru-RU">В первый раз сесть в лодку.</Value>
+        <Value locale="es-ES">Súbete a una embarcación por primera vez.</Value>
+        <Value locale="zh-CN">第一次乘船。</Value>
+        <Value locale="de-DE">Steige zum ersten Mal in ein Boot.</Value>
+        <Value locale="pl-PL">Wsiądź do łodzi po raz pierwszy.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_36d87683-d0df-4d86-856b-580921ce58b4">
+        <Value locale="en-US">More Fish in the Sea</Value>
+        <Value locale="fr-FR">L’embarras du choix</Value>
+        <Value locale="ja-JP">海の中の魚。</Value>
+        <Value locale="ru-RU">Рыбное место</Value>
+        <Value locale="es-ES">El mar está lleno de peces</Value>
+        <Value locale="zh-CN">还有很多鱼。</Value>
+        <Value locale="de-DE">Artenvielfalt</Value>
+        <Value locale="pl-PL">Rybka lubi pływać</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_36d87683-d0df-4d86-856b-580921ce58b4">
+        <Value locale="en-US">Caught 3 unique fish species in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Vous avez attrapé 3 espèces de poissons uniques dans la réserve de
+            Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内特有の魚を3種類釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу 3 уникальных видов в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Has pescado 3 especies únicas en la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内捕获了3种独特鱼类。</Value>
+        <Value locale="de-DE">3 einzigartige Fischarten im Golden Ridge Reservat gefangen.</Value>
+        <Value locale="pl-PL">Złowiono 3 różne gatunki ryb w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_36d87683-d0df-4d86-856b-580921ce58b4">
+        <Value locale="en-US">Catch 3 unique fish species in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Attrapez 3 espèces de poissons uniques dans la réserve de Golden
+            Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内特有の魚を3種類釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу 3 уникальных видов в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Pesca 3 especies únicas en la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内捕获3种独特鱼类。</Value>
+        <Value locale="de-DE">Fange 3 einzigartige Fischarten im Golden Ridge Reservat.</Value>
+        <Value locale="pl-PL">Złów 3 różne gatunki ryb w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_7595d29f-389c-4cf2-829d-e0f140c4ac6a">
+        <Value locale="en-US">Scaling Up</Value>
+        <Value locale="fr-FR">À moi l’argent</Value>
+        <Value locale="ja-JP">スケールアップ</Value>
+        <Value locale="ru-RU">Движение вверх</Value>
+        <Value locale="es-ES">Subiendo como la espuma</Value>
+        <Value locale="zh-CN">扩大规模</Value>
+        <Value locale="de-DE">Flosse, Genosse</Value>
+        <Value locale="pl-PL">Po płetwie do przodu</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_7595d29f-389c-4cf2-829d-e0f140c4ac6a">
+        <Value locale="en-US">Caught a silver ranked fish.</Value>
+        <Value locale="fr-FR">Vous avez attrapé un poisson de rang Argent.</Value>
+        <Value locale="ja-JP">シルバーランクの魚を釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу серебряного ранга.</Value>
+        <Value locale="es-ES">Has pescado un pez de rango plata.</Value>
+        <Value locale="zh-CN">捕获了一条白银级的鱼。</Value>
+        <Value locale="de-DE">Einen Fisch des Rangs Silber gefangen.</Value>
+        <Value locale="pl-PL">Złowiono rybę klasy srebrnej.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_7595d29f-389c-4cf2-829d-e0f140c4ac6a">
+        <Value locale="en-US">Catch a silver ranked fish.</Value>
+        <Value locale="fr-FR">Attrapez un poisson de rang Argent.</Value>
+        <Value locale="ja-JP">シルバーランクの魚を釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу серебряного ранга.</Value>
+        <Value locale="es-ES">Pesca un pez de rango plata.</Value>
+        <Value locale="zh-CN">捕获一条白银级的鱼。</Value>
+        <Value locale="de-DE">Fange einen Fisch des Rangs Silber.</Value>
+        <Value locale="pl-PL">Złów rybę klasy srebrnej.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_5a50ecf1-0682-4c1b-abad-bb60e0e164b2">
+        <Value locale="en-US">Things That Go Splash in the Night</Value>
+        <Value locale="fr-FR">Pêche nocturne</Value>
+        <Value locale="ja-JP">真夜中に跳びはねるもの</Value>
+        <Value locale="ru-RU">Темные воды</Value>
+        <Value locale="es-ES">Chapuzón nocturno</Value>
+        <Value locale="zh-CN">夜间垂钓</Value>
+        <Value locale="de-DE">Im Dunkeln ist gut munkeln</Value>
+        <Value locale="pl-PL">Widziałam ryby cień</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_5a50ecf1-0682-4c1b-abad-bb60e0e164b2">
+        <Value locale="en-US">Caught a fish at night.</Value>
+        <Value locale="fr-FR">Vous avez attrapé un poisson pendant la nuit.</Value>
+        <Value locale="ja-JP">夜、魚を釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу ночью.</Value>
+        <Value locale="es-ES">Has pescado un pez de noche.</Value>
+        <Value locale="zh-CN">在夜间捕获了一条鱼。</Value>
+        <Value locale="de-DE">Einen Fisch bei Nacht gefangen.</Value>
+        <Value locale="pl-PL">Złowiono rybę w nocy.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_5a50ecf1-0682-4c1b-abad-bb60e0e164b2">
+        <Value locale="en-US">Catch a fish at night.</Value>
+        <Value locale="fr-FR">Attrapez un poisson pendant la nuit.</Value>
+        <Value locale="ja-JP">夜、魚を釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу ночью.</Value>
+        <Value locale="es-ES">Pesca un pez de noche.</Value>
+        <Value locale="zh-CN">在夜间捕获一条鱼。</Value>
+        <Value locale="de-DE">Fange einen Fisch bei Nacht.</Value>
+        <Value locale="pl-PL">Złów rybę w nocy.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_7fdab1c0-b686-43a2-a53d-4a549052eddf">
+        <Value locale="en-US">License to Gill</Value>
+        <Value locale="fr-FR">Gros poisson</Value>
+        <Value locale="ja-JP">釣られたライセンス</Value>
+        <Value locale="ru-RU">На пути к успеху</Value>
+        <Value locale="es-ES">Aún estás un poco pez</Value>
+        <Value locale="zh-CN">等级达成</Value>
+        <Value locale="de-DE">Lizenz erteilt</Value>
+        <Value locale="pl-PL">Licencja na zarybianie</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_7fdab1c0-b686-43a2-a53d-4a549052eddf">
+        <Value locale="en-US">Reached level 10.</Value>
+        <Value locale="fr-FR">Vous avez atteint le niveau 10.</Value>
+        <Value locale="ja-JP">レベル10に到達しました。</Value>
+        <Value locale="ru-RU">Вы достигли 10-го уровня.</Value>
+        <Value locale="es-ES">Has alcanzado el nivel 10.</Value>
+        <Value locale="zh-CN">达到了10级。</Value>
+        <Value locale="de-DE">Stufe 10 erreicht.</Value>
+        <Value locale="pl-PL">Osiągnięto poziom 10.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_7fdab1c0-b686-43a2-a53d-4a549052eddf">
+        <Value locale="en-US">Reach level 10.</Value>
+        <Value locale="fr-FR">Atteignez le niveau 10.</Value>
+        <Value locale="ja-JP">レベル10に到達する。</Value>
+        <Value locale="ru-RU">Достичь 10-го уровня.</Value>
+        <Value locale="es-ES">Alcanza el nivel 10.</Value>
+        <Value locale="zh-CN">达到10级。</Value>
+        <Value locale="de-DE">Erreiche Stufe 10.</Value>
+        <Value locale="pl-PL">Osiągnij poziom 10.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_779b9559-ae7c-4056-94d1-caea30c32dcd">
+        <Value locale="en-US">Live by the Rod, Diez by the Rod!</Value>
+
+ 
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_779b9559-ae7c-4056-94d1-caea30c32dcd">
+        <Value locale="en-US">Completed the Golden Ridge Reserve Self Guided Tour.</Value>
+        <Value locale="fr-FR">Vous avez terminé la visite autonome de la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区のセルフガイドツアーを完了しました。</Value>
+        <Value locale="ru-RU">Вы завершили самостоятельную экскурсию по парку «Голден Ридж».</Value>
+        <Value locale="es-ES">Has completado la visita guiada de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">完成了黄金岭保护区自助导览游。</Value>
+        <Value locale="de-DE">Die Besichtigungstour des Golden Ridge Reservats abgeschlossen.</Value>
+        <Value locale="pl-PL">Ukończono wycieczkę po Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_779b9559-ae7c-4056-94d1-caea30c32dcd">
+        <Value locale="en-US">Complete the Golden Ridge Reserve Self Guided Tour.</Value>
+        <Value locale="fr-FR">Terminez la visite autonome de la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区のセルフガイドツアーを完了する。</Value>
+        <Value locale="ru-RU">Завершить самостоятельную экскурсию по парку «Голден Ридж».</Value>
+        <Value locale="es-ES">Completa la visita guiada de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">完成黄金岭保护区自助导览游。</Value>
+        <Value locale="de-DE">Schließe die Besichtigungstour des Golden Ridge Reservats ab.</Value>
+        <Value locale="pl-PL">Ukończ wycieczkę po Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_d23a1d0f-9441-4874-a9b8-8d1bc30f02a0">
+        <Value locale="en-US">I’m the Captain Now</Value>
+        <Value locale="fr-FR">C'est moi le capitaine, maintenant</Value>
+        <Value locale="ja-JP">今から船長</Value>
+        <Value locale="ru-RU">Теперь я капитан</Value>
+        <Value locale="es-ES">Donde hay patrón, no manda marinero</Value>
+        <Value locale="zh-CN">我现在是一名船长。</Value>
+        <Value locale="de-DE">Ich bin jetzt der Kapitän</Value>
+        <Value locale="pl-PL">Tak jest, kapitanie!</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_d23a1d0f-9441-4874-a9b8-8d1bc30f02a0">
+        <Value locale="en-US">Purchased a boat.</Value>
+        <Value locale="fr-FR">Vous avez acheté un bateau.</Value>
+        <Value locale="ja-JP">ボートを購入しました。</Value>
+        <Value locale="ru-RU">Вы купили лодку.</Value>
+        <Value locale="es-ES">Has comprado una embarcación.</Value>
+        <Value locale="zh-CN">购买了一艘船。</Value>
+        <Value locale="de-DE">Ein Boot gekauft.</Value>
+        <Value locale="pl-PL">Zakupiono łódź.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_d23a1d0f-9441-4874-a9b8-8d1bc30f02a0">
+        <Value locale="en-US">Purchase a boat.</Value>
+        <Value locale="fr-FR">Achetez un bateau.</Value>
+        <Value locale="ja-JP">ボートを購入する。</Value>
+        <Value locale="ru-RU">Купить лодку.</Value>
+        <Value locale="es-ES">Compra una embarcación.</Value>
+        <Value locale="zh-CN">购买一艘船。</Value>
+        <Value locale="de-DE">Kaufe ein Boot.</Value>
+        <Value locale="pl-PL">Kup łódź.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_2795c9b3-bd78-4a96-ad95-2e9c1ce25693">
+        <Value locale="en-US">Hook, Line and Sinker</Value>
+        <Value locale="fr-FR">Hameçon, ligne et plomb</Value>
+        <Value locale="ja-JP">フックにラインに重り。</Value>
+        <Value locale="ru-RU">Всё под рукой</Value>
+        <Value locale="es-ES">Más vale prevenir que curar</Value>
+        <Value locale="zh-CN">鱼钩、鱼线和钓坠</Value>
+        <Value locale="de-DE">Haken, Leine und Gewicht</Value>
+        <Value locale="pl-PL">Zestaw gotowy do akcji</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_2795c9b3-bd78-4a96-ad95-2e9c1ce25693">
+        <Value locale="en-US">Successfully setup 4 unique fishing tackles to use from the Quick Menu</Value>
+        <Value locale="fr-FR">Vous avez configuré 4 équipements de pêche uniques pour le menu
+            rapide.</Value>
+        <Value locale="ja-JP">クイックメニューから、使用するユニークな釣り用具を4つセットアップするのに成功しました。</Value>
+        <Value locale="ru-RU">Вы успешно закрепили 4 разные снасти в быстром меню.</Value>
+        <Value locale="es-ES">Has añadido 4 aparejos de pesca únicos al menú rápido.</Value>
+        <Value locale="zh-CN">在快捷菜单中成功设置了4款独特的渔具以便使用。</Value>
+        <Value locale="de-DE">4 einzigartige Angelausrüstungen für das Schnellmenü eingerichtet.</Value>
+        <Value locale="pl-PL">Pomyślnie ustawiono 4 różne przynęty do wykorzystania w szybkim menu.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_2795c9b3-bd78-4a96-ad95-2e9c1ce25693">
+        <Value locale="en-US">Set up 4 unique fishing tackles to use from the Quick Menu</Value>
+        <Value locale="fr-FR">Configurez 4 équipements de pêche uniques pour le menu rapide.</Value>
+        <Value locale="ja-JP">クイックメニューから、使用するユニークな釣り用具を4つセットアップする。</Value>
+        <Value locale="ru-RU">Закрепить 4 разные снасти в быстром меню.</Value>
+        <Value locale="es-ES">Añade 4 aparejos de pesca únicos al menú rápido.</Value>
+        <Value locale="zh-CN">在快捷菜单中设置4款独特的渔具以便使用。</Value>
+        <Value locale="de-DE">Richte 4 einzigartige Angelausrüstungen für das Schnellmenü ein.</Value>
+        <Value locale="pl-PL">Ustaw 4 różne przynęty do wykorzystania w szybkim menu.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_3186091e-0f6e-4a39-8490-20c07fb34b46">
+        <Value locale="en-US">Goldfish?</Value>
+        <Value locale="fr-FR">Sortir du bocal</Value>
+        <Value locale="ja-JP">金魚？</Value>
+        <Value locale="ru-RU">Золотая рыбка?</Value>
+        <Value locale="es-ES">Un pez... ¿dorado?</Value>
+        <Value locale="zh-CN">黄金级的鱼？</Value>
+        <Value locale="de-DE">Ein Goldfisch?</Value>
+        <Value locale="pl-PL">Złota rybka?</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_3186091e-0f6e-4a39-8490-20c07fb34b46">
+        <Value locale="en-US">Caught a gold ranked fish.</Value>
+        <Value locale="fr-FR">Vous avez attrapé un poisson de rang Or.</Value>
+        <Value locale="ja-JP">ゴールドランクの魚を釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу золотого ранга.</Value>
+        <Value locale="es-ES">Has pescado un pez de rango oro.</Value>
+        <Value locale="zh-CN">捕获了一条黄金级的鱼。</Value>
+        <Value locale="de-DE">Einen Fisch des Rangs Gold gefangen.</Value>
+        <Value locale="pl-PL">Złowiono rybę klasy złotej.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_3186091e-0f6e-4a39-8490-20c07fb34b46">
+        <Value locale="en-US">Catch a gold ranked fish.</Value>
+        <Value locale="fr-FR">Attrapez un poisson de rang Or.</Value>
+        <Value locale="ja-JP">ゴールドランクの魚を釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу золотого ранга.</Value>
+        <Value locale="es-ES">Pesca un pez de rango oro.</Value>
+        <Value locale="zh-CN">捕获一条黄金级的鱼。</Value>
+        <Value locale="de-DE">Fange einen Fisch des Rangs Gold.</Value>
+        <Value locale="pl-PL">Złów rybę klasy złotej.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_69e9aac4-5a3b-44a7-9b92-3a5cb9af7cd4">
+        <Value locale="en-US">Going for Gold</Value>
+        <Value locale="fr-FR">À la conquête de l’or</Value>
+        <Value locale="ja-JP">ゴールドを目指して</Value>
+        <Value locale="ru-RU">Битва за золото</Value>
+        <Value locale="es-ES">La ruta hacia El Dorado</Value>
+        <Value locale="zh-CN">志在夺金</Value>
+        <Value locale="de-DE">Auf dem Weg zu Gold</Value>
+        <Value locale="pl-PL">Złoto albo nic</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_69e9aac4-5a3b-44a7-9b92-3a5cb9af7cd4">
+        <Value locale="en-US">Caught a gold ranked fish in under 1 minute.</Value>
+        <Value locale="fr-FR">Vous avez attrapé un poisson de rang Or en moins d’une minute.</Value>
+        <Value locale="ja-JP">ゴールドランクの魚を1分以内に釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу золотого ранга меньше чем за 1 мин.</Value>
+        <Value locale="es-ES">Has pescado un pez de rango oro en menos de un minuto.</Value>
+        <Value locale="zh-CN">在1分钟内捕获了一条黄金级的鱼。</Value>
+        <Value locale="de-DE">Einen Fisch des Rangs Gold in unter 1 Minute gefangen.</Value>
+        <Value locale="pl-PL">Złowiono rybę klasy złotej w czasie poniżej 1 minuty.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_69e9aac4-5a3b-44a7-9b92-3a5cb9af7cd4">
+        <Value locale="en-US">Catch a gold ranked fish in under 1 minute.</Value>
+        <Value locale="fr-FR">Attrapez un poisson de rang Or en moins d’une minute.</Value>
+        <Value locale="ja-JP">ゴールドランクの魚を1分以内に釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу золотого ранга меньше чем за 1 мин.</Value>
+        <Value locale="es-ES">Pesca un pez de rango oro en menos de un minuto.</Value>
+        <Value locale="zh-CN">在1分钟内捕获一条黄金级的鱼。</Value>
+        <Value locale="de-DE">Fange einen Fisch des Rangs Gold in unter 1 Minute.</Value>
+        <Value locale="pl-PL">Złów rybę klasy złotej w czasie poniżej 1 minuty.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_8c329bc2-6981-49f0-8dce-41ed11b7e403">
+        <Value locale="en-US">School’s Out for Summer</Value>
+        <Value locale="fr-FR">Expert en ichtyologie</Value>
+        <Value locale="ja-JP">夏休みだ</Value>
+        <Value locale="ru-RU">Веселые каникулы</Value>
+        <Value locale="es-ES">El que quiera peces, que se moje el culo</Value>
+        <Value locale="zh-CN">快乐暑假</Value>
+        <Value locale="de-DE">Sommerferien!</Value>
+        <Value locale="pl-PL">Pełen komplet</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_8c329bc2-6981-49f0-8dce-41ed11b7e403">
+        <Value locale="en-US">Caught all 12 unique fish species in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Vous avez attrapé 12 espèces de poissons uniques dans la réserve de
+            Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内特有の魚を全12種類釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу каждого из 12 уникальных видов в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Has pescado las 12 especies de peces únicas de la reserva de Golden
+            Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内捕获了所有12种独特鱼类。</Value>
+        <Value locale="de-DE">Alle 12 einzigartigen Fischarten im Golden Ridge Reservat gefangen.</Value>
+        <Value locale="pl-PL">Złowiono wszystkie 12 gatunków ryb w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_8c329bc2-6981-49f0-8dce-41ed11b7e403">
+        <Value locale="en-US">Catch all 12 unique fish species in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Attrapez 12 espèces de poissons uniques dans la réserve de Golden
+            Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内特有の魚を全12種類釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу каждого из 12 уникальных видов в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Pesca las 12 especies de peces únicas de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内捕获所有12种独特鱼类。</Value>
+        <Value locale="de-DE">Fange alle 12 einzigartigen Fischarten im Golden Ridge Reservat.</Value>
+        <Value locale="pl-PL">Złów wszystkie 12 gatunków ryb w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_8febfa9f-4d0a-4527-ac6f-a8b55fc5a66d">
+        <Value locale="en-US">Head for Heights</Value>
+        <Value locale="fr-FR">Viser les sommets</Value>
+        <Value locale="ja-JP">上を目指して</Value>
+        <Value locale="ru-RU">Выше нос</Value>
+        <Value locale="es-ES">Con la cabeza en las nubes</Value>
+        <Value locale="zh-CN">前进高地</Value>
+        <Value locale="de-DE">Höhenflug</Value>
+        <Value locale="pl-PL">Mierz wysoko</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_8febfa9f-4d0a-4527-ac6f-a8b55fc5a66d">
+        <Value locale="en-US">Reached the highest peak in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Vous avez atteint le plus haut sommet de la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内の最高峰に到達しました。</Value>
+        <Value locale="ru-RU">Вы добрались до самой высокой точки парка «Голден Ридж».</Value>
+        <Value locale="es-ES">Has alcanzado la cima más alta de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">抵达了黄金岭保护区至高点。</Value>
+        <Value locale="de-DE">Den höchsten Gipfel im Golden Ridge Reservat erreicht.</Value>
+        <Value locale="pl-PL">Zdobyto najwyższy szczyt Rezerwatu Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_8febfa9f-4d0a-4527-ac6f-a8b55fc5a66d">
+        <Value locale="en-US">Reach the highest peak in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Atteignez le plus haut sommet de la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内の最高峰に到達する。</Value>
+        <Value locale="ru-RU">Добраться до самой высокой точки парка «Голден Ридж».</Value>
+        <Value locale="es-ES">Alcanza la cima más alta de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">抵达黄金岭保护区至高点。</Value>
+        <Value locale="de-DE">Erreiche den höchsten Gipfel im Golden Ridge Reservat.</Value>
+        <Value locale="pl-PL">Zdobądź najwyższy szczyt Rezerwatu Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_9d01ee37-f1ba-43dd-a758-b9c85c6e42c8">
+        <Value locale="en-US">The Beetles</Value>
+        <Value locale="fr-FR">Expert en coléoptères</Value>
+        <Value locale="ja-JP">ザ・ビートルズ</Value>
+        <Value locale="ru-RU">Гроза жуков</Value>
+        <Value locale="es-ES">Entomofobia</Value>
+        <Value locale="zh-CN">甲虫危机</Value>
+        <Value locale="de-DE">Zwischen Baum und Borke</Value>
+        <Value locale="pl-PL">Kornik jaki jest, każdy widzi</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_9d01ee37-f1ba-43dd-a758-b9c85c6e42c8">
+        <Value locale="en-US">Completed the "Beetle infestation" Warden Missions in Golden Ridge
+            Reserve.</Value>
+        <Value locale="fr-FR">Vous avez terminé les missions "Infestations" du garde forestier dans
+            la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区で管理人のミッション 「キクイムシの蔓延」を完了しました。</Value>
+        <Value locale="ru-RU">Вы выполнили задания смотрителя по обнаружению жуков-вредителей в
+            парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Has completado todas las misiones de la plaga de escarabajos de la
+            reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内完成了“甲虫入侵”园长任务。</Value>
+        <Value locale="de-DE">Die „Käferbefall“-Aufsehermissionen im Golden Ridge Reservat
+            abgeschlossen.</Value>
+        <Value locale="pl-PL">Ukończono misje Strażnika „Zaraza kornika” w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_9d01ee37-f1ba-43dd-a758-b9c85c6e42c8">
+        <Value locale="en-US">Complete the "Beetle infestation" Warden Missions in Golden Ridge
+            Reserve</Value>
+        <Value locale="fr-FR">Terminez les missions "Infestations" du garde forestier dans la
+            réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区で管理人のミッション 「キクイムシの蔓延」を完了する。</Value>
+        <Value locale="ru-RU">Выполнить задания смотрителя по обнаружению жуков-вредителей в парке
+            «Голден Ридж».</Value>
+        <Value locale="es-ES">Completa todas las misiones de la plaga de escarabajos de la reserva
+            de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内完成“甲虫入侵”园长任务。</Value>
+        <Value locale="de-DE">Schließe die „Käferbefall“-Aufsehermissionen im Golden Ridge Reservat
+            ab.</Value>
+        <Value locale="pl-PL">Ukończ misje Strażnika „Zaraza kornika” w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_62c4b3d9-331c-4ff5-9138-2d88903d65f4">
+        <Value locale="en-US">Lake Me up Before You Go Go</Value>
+        <Value locale="fr-FR">Virée sur le lac</Value>
+        <Value locale="ja-JP">早起きは三湖の特</Value>
+        <Value locale="ru-RU">Прогулки по воде</Value>
+        <Value locale="es-ES">¡Viento en popa, a toda vela!</Value>
+        <Value locale="zh-CN">渡湖穿行</Value>
+        <Value locale="de-DE">Eine Seefahrt, die ist lustig</Value>
+        <Value locale="pl-PL">Leniwe rejsu godziny</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_62c4b3d9-331c-4ff5-9138-2d88903d65f4">
+        <Value locale="en-US">Travelled 100km by boat.</Value>
+        <Value locale="fr-FR">Vous avez parcouru 100 km en bateau.</Value>
+        <Value locale="ja-JP">ボートで100キロ移動しました。</Value>
+        <Value locale="ru-RU">Вы преодолели 100 км на лодке.</Value>
+        <Value locale="es-ES">Has recorrido 100 km en barco.</Value>
+        <Value locale="zh-CN">乘船行驶了100千米。</Value>
+        <Value locale="de-DE">62,2 Meilen (100 km) mit dem Boot zurückgelegt.</Value>
+        <Value locale="pl-PL">Przepłynięto 100 km łodzią.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_62c4b3d9-331c-4ff5-9138-2d88903d65f4">
+        <Value locale="en-US">Travel 62.2 miles (100km) by boat.</Value>
+        <Value locale="fr-FR">Parcourez 100 km (62,2 miles) en bateau.</Value>
+        <Value locale="ja-JP">ボートで62.2マイル（100キロ）移動する。</Value>
+        <Value locale="ru-RU">Преодолеть на лодке 62,2 мили (100 км).</Value>
+        <Value locale="es-ES">Recorre 62,2 millas (100 km) en una embarcación.</Value>
+        <Value locale="zh-CN">乘船行驶62.2英里（100千米）。</Value>
+        <Value locale="de-DE">Lege 62,2 Meilen (100 km) mit dem Boot zurück.</Value>
+        <Value locale="pl-PL">Przepłyń 100 km łodzią.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_bce79176-2154-4ec2-a21d-363f56e7db3f">
+        <Value locale="en-US">Marathon</Value>
+        <Value locale="fr-FR">Marathon</Value>
+        <Value locale="ja-JP">マラソン</Value>
+        <Value locale="ru-RU">Марафон</Value>
+        <Value locale="es-ES">Maratón</Value>
+        <Value locale="zh-CN">挑战“马拉松”</Value>
+        <Value locale="de-DE">Marathon</Value>
+        <Value locale="pl-PL">Maraton</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_bce79176-2154-4ec2-a21d-363f56e7db3f">
+        <Value locale="en-US">Travelled the distance of a marathon on foot.</Value>
+        <Value locale="fr-FR">Vous avez parcouru la distance d’un marathon à pied.</Value>
+        <Value locale="ja-JP">マラソンの距離を徒歩で移動しました。</Value>
+        <Value locale="ru-RU">Вы прошли марафонскую дистанцию.</Value>
+        <Value locale="es-ES">Has recorrido la distancia de una maratón a pie.</Value>
+        <Value locale="zh-CN">徒步走完了马拉松距离。</Value>
+        <Value locale="de-DE">Die Strecke eines Marathons zu Fuß zurückgelegt.</Value>
+        <Value locale="pl-PL">Przebyto pieszo dystans maratonu.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_bce79176-2154-4ec2-a21d-363f56e7db3f">
+        <Value locale="en-US">Travel the distance of a marathon on foot.</Value>
+        <Value locale="fr-FR">Parcourez l’équivalent d’un marathon à pied.</Value>
+        <Value locale="ja-JP">マラソンの距離を徒歩で移動する。</Value>
+        <Value locale="ru-RU">Пройти марафонскую дистанцию.</Value>
+        <Value locale="es-ES">Recorre la distancia de una maratón a pie.</Value>
+        <Value locale="zh-CN">徒步走完马拉松距离。</Value>
+        <Value locale="de-DE">Lege die Strecke eines Marathons zu Fuß zurück.</Value>
+        <Value locale="pl-PL">Przejdź pieszo dystans maratonu.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_3fd970c1-97fb-4e88-9e1c-76054dd74f76">
+        <Value locale="en-US">I’m Hooked!</Value>
+        <Value locale="fr-FR">Mordu de pêche</Value>
+        <Value locale="ja-JP">釣りにつられた！</Value>
+        <Value locale="ru-RU">И пусть весь мир подождет!</Value>
+        <Value locale="es-ES">He mordido el anzuelo</Value>
+        <Value locale="zh-CN">我太牛了！</Value>
+        <Value locale="de-DE">Zieh Leine!</Value>
+        <Value locale="pl-PL">Czy to jeszcze hobby?</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_3fd970c1-97fb-4e88-9e1c-76054dd74f76">
+        <Value locale="en-US">Caught 100 Fish.</Value>
+        <Value locale="fr-FR">Vous avez attrapé 100 poissons.</Value>
+        <Value locale="ja-JP">魚を100匹釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали 100 рыб.</Value>
+        <Value locale="es-ES">Has pescado 100 peces.</Value>
+        <Value locale="zh-CN">捕获了100条鱼。</Value>
+        <Value locale="de-DE">100 Fische gefangen.</Value>
+        <Value locale="pl-PL">Złowiono 100 ryb.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_3fd970c1-97fb-4e88-9e1c-76054dd74f76">
+        <Value locale="en-US">Catch 100 Fish.</Value>
+        <Value locale="fr-FR">Attrapez 100 poissons.</Value>
+        <Value locale="ja-JP">魚を100匹釣る。</Value>
+        <Value locale="ru-RU">Поймать 100 рыб.</Value>
+        <Value locale="es-ES">Pesca 100 peces.</Value>
+        <Value locale="zh-CN">捕获100条鱼。</Value>
+        <Value locale="de-DE">Fange 100 Fische.</Value>
+        <Value locale="pl-PL">Złów 100 ryb.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_d8eeb5cb-7d4b-4e17-aa9b-6b536cbb4dfa">
+        <Value locale="en-US">Diamond in the Rough</Value>
+        <Value locale="fr-FR">Diamant brut</Value>
+        <Value locale="ja-JP">ダイヤの原石</Value>
+        <Value locale="ru-RU">Неограненный алмаз</Value>
+        <Value locale="es-ES">Un diamante en bruto</Value>
+        <Value locale="zh-CN">沙中掏钻</Value>
+        <Value locale="de-DE">Ungeschliffener Diamant</Value>
+        <Value locale="pl-PL">Nieoszlifowany diament</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_d8eeb5cb-7d4b-4e17-aa9b-6b536cbb4dfa">
+        <Value locale="en-US">Caught a diamond fish.</Value>
+        <Value locale="fr-FR">Vous avez attrapé un poisson de rang Diamant.</Value>
+        <Value locale="ja-JP">ダイアモンドランクの魚を釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу алмазного ранга.</Value>
+        <Value locale="es-ES">Has pescado un pez de rango diamante.</Value>
+        <Value locale="zh-CN">捕获了一条钻石级的鱼。</Value>
+        <Value locale="de-DE">Einen Fisch des Rangs Diamant gefangen.</Value>
+        <Value locale="pl-PL">Złowiono rybę klasy diamentowej.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_d8eeb5cb-7d4b-4e17-aa9b-6b536cbb4dfa">
+        <Value locale="en-US">Catch a diamond ranked fish.</Value>
+        <Value locale="fr-FR">Attrapez un poisson de rang Diamant.</Value>
+        <Value locale="ja-JP">ダイアモンドランクの魚を釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу алмазного ранга.</Value>
+        <Value locale="es-ES">Pesca un pez de rango diamante.</Value>
+        <Value locale="zh-CN">捕获一条钻石级的鱼。</Value>
+        <Value locale="de-DE">Fange einen Fisch des Rangs Diamant.</Value>
+        <Value locale="pl-PL">Złów rybę klasy diamentowej.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_36778599-f050-4cda-a1f4-4c20cb55cd9d">
+        <Value locale="en-US">No Fin Left to Give</Value>
+        <Value locale="fr-FR">Dépensier</Value>
+        <Value locale="ja-JP">いちフィンなし</Value>
+        <Value locale="ru-RU">Бездонные карманы</Value>
+        <Value locale="es-ES">Más tieso que la mojama</Value>
+        <Value locale="zh-CN">空空如也</Value>
+        <Value locale="de-DE">Armer Schlucker</Value>
+        <Value locale="pl-PL">Ryba w kieszeni</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_36778599-f050-4cda-a1f4-4c20cb55cd9d">
+        <Value locale="en-US">Spent 100,000 credits.</Value>
+        <Value locale="fr-FR">Vous avez dépensé 100 000 crédits.</Value>
+        <Value locale="ja-JP">クレジットを100,000使いました。</Value>
+        <Value locale="ru-RU">Вы потратили 100 000 кредитов.</Value>
+        <Value locale="es-ES">Has gastado 100 000 créditos.</Value>
+        <Value locale="zh-CN">消耗了10万金币。</Value>
+        <Value locale="de-DE">100.000 Credits ausgegeben.</Value>
+        <Value locale="pl-PL">Wydano 100 000 kredytów.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_36778599-f050-4cda-a1f4-4c20cb55cd9d">
+        <Value locale="en-US">Spend 100,000 credits.</Value>
+        <Value locale="fr-FR">Dépensez 100 000 crédits.</Value>
+        <Value locale="ja-JP">クレジットを100,000使う。</Value>
+        <Value locale="ru-RU">Потратить 100 000 кредитов.</Value>
+        <Value locale="es-ES">Gasta 100 000 créditos.</Value>
+        <Value locale="zh-CN">消耗10万金币。</Value>
+        <Value locale="de-DE">Gib 100.000 Credits aus.</Value>
+        <Value locale="pl-PL">Wydaj 100 000 kredytów.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_d3a05fd5-96e6-4979-98a8-362bff615dd1">
+        <Value locale="en-US">Have Fish, Will Travel</Value>
+        <Value locale="fr-FR">Explorateur aguerri</Value>
+        <Value locale="ja-JP">魚が減っては、戦はできぬ</Value>
+        <Value locale="ru-RU">Путь натуралиста</Value>
+        <Value locale="es-ES">Remover cielo y tierra</Value>
+        <Value locale="zh-CN">为鱼而行。</Value>
+        <Value locale="de-DE">Mit der Angel um die Welt</Value>
+        <Value locale="pl-PL">Nie samą rybą człowiek żyje</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_d3a05fd5-96e6-4979-98a8-362bff615dd1">
+        <Value locale="en-US">Found every Point of Interest in the Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Vous avez trouvé tous les points d’intérêt de la réserve de Golden
+            Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内の注目ポイントを全て見つけました。</Value>
+        <Value locale="ru-RU">Вы нашли все интересные места в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Has encontrado todos los puntos de interés de la reserva de Golden
+            Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内找到了每一处兴趣点。</Value>
+        <Value locale="de-DE">Jede Sehenswürdigkeit im Golden Ridge Reservat gefunden.</Value>
+        <Value locale="pl-PL">Znaleziono wszystkie interesujące miejsca w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_d3a05fd5-96e6-4979-98a8-362bff615dd1">
+        <Value locale="en-US">Find every Point of Interest in the Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Trouvez tous les points d’intérêt de la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内の注目ポイントを全て見つける。</Value>
+        <Value locale="ru-RU">Найти все интересные места в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Encuentra todos los puntos de interés de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内寻找每一兴趣点。</Value>
+        <Value locale="de-DE">Finde jede Sehenswürdigkeit im Golden Ridge Reservat.</Value>
+        <Value locale="pl-PL">Znajdź wszystkie interesujące miejsca w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_6603d56a-445d-4c89-abaf-cd0565cde39a">
+        <Value locale="en-US">Taylor Made</Value>
+        <Value locale="fr-FR">Favori de Taylor</Value>
+        <Value locale="ja-JP">テイラーメイド</Value>
+        <Value locale="ru-RU">Столько дел, столько дел</Value>
+        <Value locale="es-ES">Como pez en el agua</Value>
+        <Value locale="zh-CN">泰勒制造</Value>
+        <Value locale="de-DE">Taylor weiß Bescheid</Value>
+        <Value locale="pl-PL">S jak Sprzedawczyni, T jak Taylor</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_6603d56a-445d-4c89-abaf-cd0565cde39a">
+        <Value locale="en-US">Completed at least ten of each Shopkeeper mission in Golden Ridge
+            Reserve.</Value>
+        <Value locale="fr-FR">Vous avez terminé dix missions de la commerçante dans la réserve de
+            Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区で店員さんのミッションを各10個以上完了しました。</Value>
+        <Value locale="ru-RU">Вы выполнили как минимум по 10 заданий каждого типа от хозяйки
+            магазина в парке «Голден Ридж». </Value>
+        <Value locale="es-ES">Has completado diez desafíos de la dueña de la tienda en la reserva de
+            Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内完成了至少十项店主任务。</Value>
+        <Value locale="de-DE">Zehn Missionen jeder Art bei der Ladenbesitzerin im Golden Ridge
+            Reservat abgeschlossen.</Value>
+        <Value locale="pl-PL">Ukończono przynajmniej 10 misji każdego rodzaju od Sprzedawczyni w
+            Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_6603d56a-445d-4c89-abaf-cd0565cde39a">
+        <Value locale="en-US">Complete ten of each Shopkeeper mission type in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Terminez dix missions de la commerçante dans la réserve de Golden
+            Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区で店員さんのミッションを各10個ずつ完了する。</Value>
+        <Value locale="ru-RU">Выполнить по 10 заданий каждого типа, которые дает хозяйка магазина в
+            парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Completa diez desafíos de la dueña de la tienda en la reserva de
+            Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内完成十项店主任务。</Value>
+        <Value locale="de-DE">Schließe zehn Missionen jeder Art bei der Ladenbesitzerin im Golden
+            Ridge Reservat ab.</Value>
+        <Value locale="pl-PL">Ukończ 10 misji każdego rodzaju od Sprzedawczyni w Rezerwacie Golden
+            Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_49e08e90-1a3a-40e5-90da-58be12ee0466">
+        <Value locale="en-US">Big Fish Small Pond</Value>
+        <Value locale="fr-FR">Gros poisson, petit bocal</Value>
+        <Value locale="ja-JP">井の中の魚大海を知らず</Value>
+        <Value locale="ru-RU">Крупная рыба в мелком пруду</Value>
+        <Value locale="es-ES">Un pez gordo</Value>
+        <Value locale="zh-CN">大鱼小塘</Value>
+        <Value locale="de-DE">Großer Fisch, kleiner Teich</Value>
+        <Value locale="pl-PL">Z małej kałuży duża ryba</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_49e08e90-1a3a-40e5-90da-58be12ee0466">
+        <Value locale="en-US">Reached level 50.</Value>
+        <Value locale="fr-FR">Vous avez atteint le niveau 50.</Value>
+        <Value locale="ja-JP">レベル50に到達しました。</Value>
+        <Value locale="ru-RU">Вы достигли 50-го уровня.</Value>
+        <Value locale="es-ES">Has alcanzado el nivel 50.</Value>
+        <Value locale="zh-CN">达到了50级。</Value>
+        <Value locale="de-DE">Stufe 50 erreicht.</Value>
+        <Value locale="pl-PL">Osiągnięto poziom 50.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_49e08e90-1a3a-40e5-90da-58be12ee0466">
+        <Value locale="en-US">Reach level 50</Value>
+        <Value locale="fr-FR">Atteignez le niveau 50.</Value>
+        <Value locale="ja-JP">レベル50に到達する。</Value>
+        <Value locale="ru-RU">Достичь 50-го уровня.</Value>
+        <Value locale="es-ES">Alcanza el nivel 50.</Value>
+        <Value locale="zh-CN">达到50级。</Value>
+        <Value locale="de-DE">Erreiche Stufe 50.</Value>
+        <Value locale="pl-PL">Osiągnij poziom 50.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_43135f9e-02e3-45e5-ac20-2756d752740e">
+        <Value locale="en-US">Lost and Flounder</Value>
+        <Value locale="fr-FR">Comme un poisson dans l’eau</Value>
+        <Value locale="ja-JP">迷魚はいねか？</Value>
+        <Value locale="ru-RU">Богатый улов</Value>
+        <Value locale="es-ES">El que la sigue la consigue</Value>
+        <Value locale="zh-CN">失物招领</Value>
+        <Value locale="de-DE">Flunderbüro</Value>
+        <Value locale="pl-PL">Rzeczy zanurzone</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_43135f9e-02e3-45e5-ac20-2756d752740e">
+        <Value locale="en-US">Found all collectibles in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Vous avez trouvé tous les objets de collection de la réserve de Golden
+            Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内で収集アイテムを全て見つけました。</Value>
+        <Value locale="ru-RU">Вы выполнили как минимум по 10 заданий каждого типа от хозяйки
+            магазина в парке «Голден Ридж»</Value>
+        <Value locale="es-ES">Has encontrado todos los coleccionables de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区找到了所有收藏品。</Value>
+        <Value locale="de-DE">Alle Sammelobjekte im Golden Ridge Reservat gefunden.</Value>
+        <Value locale="pl-PL">Znaleziono wszystkie przedmioty kolekcjonerskie w Rezerwacie Golden
+            Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_43135f9e-02e3-45e5-ac20-2756d752740e">
+        <Value locale="en-US">Find all collectibles in Golden Ridge Reserve</Value>
+        <Value locale="fr-FR">Trouvez tous les objets de collection de la réserve de Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区内で収集アイテムを全て見つける。</Value>
+        <Value locale="ru-RU">Найти все коллекционные предметы в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Encuentra todos los coleccionables de la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区寻找所有收藏品。</Value>
+        <Value locale="de-DE">Finde alle Sammelobjekte im Golden Ridge Reservat.</Value>
+        <Value locale="pl-PL">Znajdź wszystkie przedmioty kolekcjonerskie w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_dcb418d0-565a-43a2-9439-5c134aad0243">
+        <Value locale="en-US">Golden Ridge Ranger</Value>
+        <Value locale="fr-FR">Ranger de Golden Ridge</Value>
+        <Value locale="ja-JP">ゴールデンリッジレンジャー。</Value>
+        <Value locale="ru-RU">Рейнджер «Голден Ридж»</Value>
+        <Value locale="es-ES">Guardabosques de Golden Ridge</Value>
+        <Value locale="zh-CN">护卫黄金岭</Value>
+        <Value locale="de-DE">Golden Ridge Ranger</Value>
+        <Value locale="pl-PL">Strażnik Golden Ridge</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_dcb418d0-565a-43a2-9439-5c134aad0243">
+        <Value locale="en-US">Maxed your reputation score in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Vous avez atteint le score maximum de réputation dans la réserve de
+            Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区で評判スコアをマックスにしました。</Value>
+        <Value locale="ru-RU">Вы набрали максимум очков репутации в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Has conseguido la máxima reputación en la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区达到了最高声望值。</Value>
+        <Value locale="de-DE">Dein Ansehen im Golden Ridge Reservat maximiert.</Value>
+        <Value locale="pl-PL">Zdobyto najwyższy poziom reputacji w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_dcb418d0-565a-43a2-9439-5c134aad0243">
+        <Value locale="en-US">Max your reputation score in Golden Ridge Reserve</Value>
+        <Value locale="fr-FR">Atteignez le score maximum de réputation dans la réserve de Golden
+            Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区で評判スコアをマックスにする。</Value>
+        <Value locale="ru-RU">Набрать максимум очков репутации в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Consigue la máxima reputación en la reserva de Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区达到最高声望值。</Value>
+        <Value locale="de-DE">Maximiere dein Ansehen im Golden Ridge Reservat.</Value>
+        <Value locale="pl-PL">Zdobądź najwyższy poziom reputacji w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_0bd78b03-1c90-4338-914e-59a2983413e5">
+        <Value locale="en-US">Buckaroo</Value>
+        <Value locale="fr-FR">Excursionniste</Value>
+        <Value locale="ja-JP">バッカルー</Value>
+        <Value locale="ru-RU">Коллега</Value>
+        <Value locale="es-ES">Colega</Value>
+        <Value locale="zh-CN">挺身而出</Value>
+        <Value locale="de-DE">Buckaroo</Value>
+        <Value locale="pl-PL">Buckaroo</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_0bd78b03-1c90-4338-914e-59a2983413e5">
+        <Value locale="en-US">Completed all Warden missions in Golden Ridge Reserve.</Value>
+        <Value locale="fr-FR">Vous avez terminé les missions du garde forestier dans la réserve de
+            Golden Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区で管理人のミッションを全て完了しました。</Value>
+        <Value locale="ru-RU">Вы выполнили все задания смотрителя в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Has completado todas las misiones del guardabosques de la reserva de
+            Golden Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内完成了所有园长任务。</Value>
+        <Value locale="de-DE">Alle Aufsehermissionen im Golden Ridge Reservat abgeschlossen.</Value>
+        <Value locale="pl-PL">Ukończono wszystkie misje Strażnika w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_0bd78b03-1c90-4338-914e-59a2983413e5">
+        <Value locale="en-US">Complete all Warden missions in Golden Ridge Reserve</Value>
+        <Value locale="fr-FR">Terminez les missions du garde forestier dans la réserve de Golden
+            Ridge.</Value>
+        <Value locale="ja-JP">ゴールデンリッジ保護区で管理人のミッションを全て完了する。</Value>
+        <Value locale="ru-RU">Выполнить все задания смотрителя в парке «Голден Ридж».</Value>
+        <Value locale="es-ES">Completa todas las misiones del guardabosques de la reserva de Golden
+            Ridge.</Value>
+        <Value locale="zh-CN">在黄金岭保护区内完成所有园长任务。</Value>
+        <Value locale="de-DE">Schließe alle Aufsehermissionen im Golden Ridge Reservat ab.</Value>
+        <Value locale="pl-PL">Ukończ wszystkie misje Strażnika w Rezerwacie Golden Ridge.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_dfc429ca-9f44-4129-9ba9-106eb792ff7b">
+        <Value locale="en-US">Gonna Need a Bigger Boat</Value>
+        <Value locale="fr-FR">Pêche au gros</Value>
+        <Value locale="ja-JP">もっと大きな船が必要だ</Value>
+        <Value locale="ru-RU">Нужна лодка побольше</Value>
+        <Value locale="es-ES">Pezqueñines no, gracias</Value>
+        <Value locale="zh-CN">需要大船</Value>
+        <Value locale="de-DE">Brauche ein größeres Boot</Value>
+        <Value locale="pl-PL">Potrzebna większa łajba</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_dfc429ca-9f44-4129-9ba9-106eb792ff7b">
+        <Value locale="en-US">Caught a fish of 44lbs (20kg) or more.</Value>
+        <Value locale="fr-FR">Vous avez attrapé un poisson de 20 kg (44 lb) ou plus.</Value>
+        <Value locale="ja-JP">44ポンド（20kg）以上の魚を釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу весом 44 фунта (20 кг) или больше.</Value>
+        <Value locale="es-ES">Has pescado un pez de 44 lb (20 kg) o más.</Value>
+        <Value locale="zh-CN">捕获了一条44磅（20公斤）或以上的鱼。</Value>
+        <Value locale="de-DE">Einen Fisch mit einem Gewicht von 44 lbs (20 kg) oder mehr gefangen.</Value>
+        <Value locale="pl-PL">Złowiono rybę ważącą 20 kg lub więcej.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_dfc429ca-9f44-4129-9ba9-106eb792ff7b">
+        <Value locale="en-US">Catch a fish of 44lbs (20kg) or more.</Value>
+        <Value locale="fr-FR">Attrapez un poisson de 20 kg (44 lb) ou plus.</Value>
+        <Value locale="ja-JP">44ポンド（20kg）以上の魚を釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу весом 44 фунта (20 кг) или больше.</Value>
+        <Value locale="es-ES">Pesca un pez de 44 lb (20 kg) o más.</Value>
+        <Value locale="zh-CN">捕获一条44磅（20公斤）或以上的鱼。</Value>
+        <Value locale="de-DE">Fange einen Fisch mit einem Gewicht von 44 lbs (20 kg) oder mehr.</Value>
+        <Value locale="pl-PL">Złów rybę ważącą 20 kg lub więcej.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_5b80c0e6-48cd-43fe-8825-2421eaf53cfc">
+        <Value locale="en-US">Rod and Troll</Value>
+        <Value locale="fr-FR">Canne à la traîne</Value>
+        <Value locale="ja-JP">ノルウェーの銛</Value>
+        <Value locale="ru-RU">Лови тролля</Value>
+        <Value locale="es-ES">Eres la Caña</Value>
+        <Value locale="zh-CN">捕鱼好手</Value>
+        <Value locale="de-DE">Norwegischer Fischmeister</Value>
+        <Value locale="pl-PL">Złów trolla</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_5b80c0e6-48cd-43fe-8825-2421eaf53cfc">
+        <Value locale="en-US">Caught all 14 unique fish species in Trollsporet Nature Reserve.</Value>
+        <Value locale="fr-FR">Vous avez attrapé 14 espèces de poissons uniques dans la réserve
+            naturelle de Trollsporet.</Value>
+        <Value locale="ja-JP">Trollsporet保護区内特有の魚を全14種類釣りました。</Value>
+        <Value locale="ru-RU">Вы поймали рыбу каждого из 14 уникальных видов в парке «Тролльспорет».</Value>
+        <Value locale="es-ES">Has pescado las 14 especies de peces únicas de la reserva de
+            Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区捕获了所有14种独特鱼类。</Value>
+        <Value locale="de-DE">Alle 14 einzigartigen Fischarten im Trollsporet Naturreservat
+            gefangen.</Value>
+        <Value locale="pl-PL">Złowiono wszystkie 14 gatunków ryb w rezerwacie przyrody Trollsporet.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_5b80c0e6-48cd-43fe-8825-2421eaf53cfc">
+        <Value locale="en-US">Catch all 14 unique fish species in Trollsporet Nature Reserve.</Value>
+        <Value locale="fr-FR">Attraper 14 espèces de poissons uniques dans la réserve naturelle de
+            Trollsporet.</Value>
+        <Value locale="ja-JP">Trollsporet保護区内特有の魚を全14種類釣る。</Value>
+        <Value locale="ru-RU">Поймать рыбу каждого из 14 уникальных видов в парке «Тролльспорет».</Value>
+        <Value locale="es-ES">Pesca las 14 especies de peces únicas de la reserva de Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区捕获所有14种独特鱼类。</Value>
+        <Value locale="de-DE">Fange alle 14 einzigartigen Fischarten im Trollsporet Naturreservat.</Value>
+        <Value locale="pl-PL">Złów wszystkie 14 gatunków ryb w rezerwacie przyrody Trollsporet.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_aaa9f8ee-a957-4e30-882d-e61bdab42ca9">
+        <Value locale="en-US">Norway Jose</Value>
+        <Value locale="fr-FR">Harald Hattrapa</Value>
+        <Value locale="ja-JP">トロール収集家</Value>
+        <Value locale="ru-RU">Коллекционер троллей</Value>
+        <Value locale="es-ES">Colectrol</Value>
+        <Value locale="zh-CN">挪威收藏家</Value>
+        <Value locale="de-DE">Trollsammler</Value>
+        <Value locale="pl-PL">Neimożliwe</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_aaa9f8ee-a957-4e30-882d-e61bdab42ca9">
+        <Value locale="en-US">Found all collectibles in Trollsporet Nature Reserve.</Value>
+        <Value locale="fr-FR">Vous avez trouvé tous les objets à collectionner cachés dans la
+            réserve naturelle de Trollsporet.</Value>
+        <Value locale="ja-JP">Trollsporet保護区内で収集アイテムを全て見つけました。</Value>
+        <Value locale="ru-RU">Вы нашли все коллекционные предметы в парке «Тролльспорет».</Value>
+        <Value locale="es-ES">Has encontrado todos los coleccionables de la reserva de Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区找到了所有收藏品。</Value>
+        <Value locale="de-DE">Alle Sammelobjekte im Trollsporet Naturreservat gefunden.</Value>
+        <Value locale="pl-PL">Znaleziono wszystkie przedmioty kolekcjonerskie w rezerwacie przyrody
+            Trollsporet.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_aaa9f8ee-a957-4e30-882d-e61bdab42ca9">
+        <Value locale="en-US">Find all collectibles in Trollsporet Nature Reserve.</Value>
+        <Value locale="fr-FR">Trouver tous les objets à collectionner cachés dans la réserve
+            naturelle de Trollsporet.</Value>
+        <Value locale="ja-JP">Trollsporet保護区内で収集アイテムを全て見つける。</Value>
+        <Value locale="ru-RU">Найти все коллекционные предметы в парке «Тролльспорет».</Value>
+        <Value locale="es-ES">Encuentra todos los coleccionables de la reserva de Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区找到所有收藏品。</Value>
+        <Value locale="de-DE">Finde alle Sammelobjekte im Trollsporet Naturreservat.</Value>
+        <Value locale="pl-PL">Znajdź wszystkie przedmioty kolekcjonerskie w rezerwacie przyrody
+            Trollsporet.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_597817dc-a808-4e32-939d-5b028d849259">
+        <Value locale="en-US">Trollsporet Tale Teller</Value>
+        <Value locale="fr-FR">Conteur du Trollsporet</Value>
+        <Value locale="ja-JP">トロール物語</Value>
+        <Value locale="ru-RU">Рассказчик с «Тролльспорет»</Value>
+        <Value locale="es-ES">Cuentacuentos de Trollsporet</Value>
+        <Value locale="zh-CN">巨魔之迹的故事叙述者</Value>
+        <Value locale="de-DE">Trollsporet-Geschichtenerzähler</Value>
+        <Value locale="pl-PL">Opowieści z Trollsporet</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_597817dc-a808-4e32-939d-5b028d849259">
+        <Value locale="en-US">Maxed your reputation score in Trollsporet Nature Reserve.</Value>
+        <Value locale="fr-FR">Vous avez développé votre réputation au maximum dans la réserve
+            naturelle de Trollsporet.</Value>
+        <Value locale="ja-JP">Trollsporet保護区で評判スコアをマックスにしました。</Value>
+        <Value locale="ru-RU">Вы набрали максимум очков репутации в парке «Тролльспорет».</Value>
+        <Value locale="es-ES">Has conseguido el máximo de reputación en la reserva de Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区达到了最高声望值。</Value>
+        <Value locale="de-DE">Dein Ansehen im Trollsporet Naturreservat maximiert.</Value>
+        <Value locale="pl-PL">Osiągnięto maksymalny poziom reputacji w rezerwacie przyrody
+            Trollsporet.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_597817dc-a808-4e32-939d-5b028d849259">
+        <Value locale="en-US">Max your reputation score in Trollsporet Nature Reserve.</Value>
+        <Value locale="fr-FR">Développer votre réputation au maximum dans la réserve naturelle de
+            Trollsporet.</Value>
+        <Value locale="ja-JP">Trollsporet保護区で評判スコアをマックスにする。</Value>
+        <Value locale="ru-RU">Набрать максимум очков репутации в парке «Тролльспорет».</Value>
+        <Value locale="es-ES">Consigue el máximo de reputación en la reserva de Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区达到最高声望值。</Value>
+        <Value locale="de-DE">Maximiere dein Ansehen im Trollsporet Naturreservat.</Value>
+        <Value locale="pl-PL">Osiągnij maksymalny poziom reputacji w rezerwacie przyrody
+            Trollsporet.</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_bbde4f75-a43d-4b8b-981d-0b251358b187">
+        <Value locale="en-US">Fish upon a Star</Value>
+        <Value locale="fr-FR">Constellation du Poisson</Value>
+        <Value locale="ja-JP">フィッシュ・チャレンジャー</Value>
+        <Value locale="ru-RU">Дождь из рыб</Value>
+        <Value locale="es-ES">Pide un Pezeo</Value>
+        <Value locale="zh-CN">渔可摘星</Value>
+        <Value locale="de-DE">Herausforderungsmeister</Value>
+        <Value locale="pl-PL">Spadająca ryba</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_bbde4f75-a43d-4b8b-981d-0b251358b187">
+        <Value locale="en-US">Completed all fishing missions in Trollsporet Nature Reserve.</Value>
+        <Value locale="fr-FR">Vous avez terminé tous les défis de pêche de la réserve naturelle de
+            Trollsporet.</Value>
+        <Value locale="ja-JP">Trollsporet保護区内の釣りチャレンジを全て完了した。</Value>
+        <Value locale="ru-RU">Вы прошли все рыболовные испытания в парке «Тролльспорет».</Value>
+        <Value locale="es-ES">Has completado todos los desafíos de pesca en la reserva de
+            Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区完成了所有钓鱼挑战。</Value>
+        <Value locale="de-DE">Alle Angel-Herausforderungen im Trollsporet Naturreservat
+            abgeschlossen.</Value>
+        <Value locale="pl-PL">Ukończono wszystkie wyzwania wędkarskie w rezerwacie przyrody
+            Trollsporet.</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_bbde4f75-a43d-4b8b-981d-0b251358b187">
+        <Value locale="en-US">Complete all fishing challenges in Trollsporet Nature Reserve.</Value>
+        <Value locale="fr-FR">Terminer tous les défis de pêche de la réserve naturelle de
+            Trollsporet.</Value>
+        <Value locale="ja-JP">Trollsporet保護区内の釣りチャレンジを全て完了する。</Value>
+        <Value locale="ru-RU">Пройти все рыболовные испытания в парке «Тролльспорет».</Value>
+        <Value locale="es-ES">Completa todos los desafíos de pesca en la reserva de Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区完成所有钓鱼挑战。</Value>
+        <Value locale="de-DE">Schließe alle Angel-Herausforderungen im Trollsporet Naturreservat ab.</Value>
+        <Value locale="pl-PL">Ukończ wszystkie wyzwanie wędkarskie w rezerwacie przyrody Trollsporet</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_ee4b3fd4-9f3a-4487-9028-8973d8d96ae4">
+        <Value locale="en-US">Cache and Carry</Value>
+        <Value locale="fr-FR">Géolocalis'Action</Value>
+        <Value locale="ja-JP">隠れマスター</Value>
+        <Value locale="ru-RU">Про запас</Value>
+        <Value locale="es-ES">Alijo mío</Value>
+        <Value locale="zh-CN">宝藏大师</Value>
+        <Value locale="de-DE">Norwegischer Cache-Meister</Value>
+        <Value locale="pl-PL">Zlokalizowane, zaklepane</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_ee4b3fd4-9f3a-4487-9028-8973d8d96ae4">
+        <Value locale="en-US">Completed all Caching challenges and Scavenger Hunts in Trollsporet
+            Nature Reserve.</Value>
+        <Value locale="fr-FR">Tous les Defis de geolocalisation et les Chasses</Value>
+        <Value locale="ja-JP">Trollsporet自然保護区内の隠し場チャレンジとスカベンジャーハントを全て完了した。</Value>
+        <Value locale="ru-RU">Найдены все тайники и завершены все охоты за сокровищами в парке
+            «Тролльспорет»</Value>
+        <Value locale="es-ES">Has completado todos los desafios de alijos y las busquedas</Value>
+        <Value locale="zh-CN">完成巨魔之迹保护区的所有宝藏挑战和寻宝游戏</Value>
+        <Value locale="de-DE">Alle Cache-Herausforderungen und Schnitzeljagden im Trollsporet
+            Naturreservat abgeschlossen.</Value>
+        <Value locale="pl-PL">Ukończono wszystkie wyzwania geolokalizacyjne i poszukiwania w
+            rezerwacie natury Trollsporet</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_ee4b3fd4-9f3a-4487-9028-8973d8d96ae4">
+        <Value locale="en-US">Complete all Caching challenges and Scavenger Hunts in Trollsporet
+            Nature Reserve.</Value>
+        <Value locale="fr-FR">Terminer tous les defis de geolocalisation et les chasses</Value>
+        <Value locale="ja-JP">Trollsporet保護区内のキャッシングチャレンジかスカベンジャーハントを全て完了する。</Value>
+        <Value locale="ru-RU">Найти все тайники и завершить все охоты за сокровищами в парке
+            «Тролльспорет».</Value>
+        <Value locale="es-ES">Completa todos los desafios de alijos y las busquedas del tesoro en la
+            reserva de Trollsporet.</Value>
+        <Value locale="zh-CN">在巨魔之迹自然保护区完成所有的宝藏挑战和寻宝游戏。</Value>
+        <Value locale="de-DE">Schließe alle Cache-Herausforderungen und Schnitzeljagden im
+            Trollsporet Naturreservat ab.</Value>
+        <Value locale="pl-PL">Ukończ wszystkie wyzwanie lokalizacyjne i poszukiwania w rezerwacie
+            przyrody Trollsporet</Value>
+    </LocalizedString>
+    <LocalizedString id="AchievementNameId_62339608-ac46-485e-acb5-c9549cad25e8">
+        <Value locale="en-US">Test</Value>
+    </LocalizedString>
+    <LocalizedString id="UnlockedDescriptionId_62339608-ac46-485e-acb5-c9549cad25e8">
+        <Value locale="en-US">This is unlocked description</Value>
+    </LocalizedString>
+    <LocalizedString id="LockedDescriptionId_62339608-ac46-485e-acb5-c9549cad25e8">
+        <Value locale="en-US">This is locked description</Value>
+    </LocalizedString>
+</Localization>
